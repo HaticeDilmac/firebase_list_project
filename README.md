@@ -26,5 +26,6 @@ Bu açıklamaları GitHub projenizin README kısmına ekleyerek kodunuzu daha iy
 
 ![Screenshot_1692051048](https://github.com/HaticeDilmac/firebase_list_project/assets/100489350/5b0ee2a4-1bfd-4781-add9-4d87467be873)
 
+![image](https://github.com/HaticeDilmac/firebase_list_project/assets/100489350/45a6f2c0-fc2d-417e-948d-04dd99ad772f)
 
 
