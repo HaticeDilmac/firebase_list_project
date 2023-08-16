@@ -11,6 +11,8 @@ Make sure you have Firebase initialized and configured in your project.
 Replace firebase_options.dart with your Firebase configuration.
 Install the required packages (cloud_firestore and firebase_core).
 Run the app using flutter run command.
+
+
 Türkçe Açıklama:
 
 Bu Flutter uygulaması, Firebase Firestore koleksiyonundan veri çekmeyi ve bu verileri bir ListView içinde görüntülemeyi göstermektedir. Uygulama, "books" koleksiyonundan veri çeker ve bu verileri bir ListView'da sunar. "name" alanına göre sıralama işlevselliği içerir. Veriler, ListTile widget'ları kullanılarak sunulur ve her öğe bir resim, isim, yazar ve isteğe bağlı sayfa sayısı içerir. Arayüz, her öğe için kenarlıklı konteynerlerle duyarlı bir düzen içerir.
